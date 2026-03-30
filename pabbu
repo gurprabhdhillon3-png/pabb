@@ -1,0 +1,34 @@
+<html>
+<head>
+    <title>ppbx</title>
+</head>
+<body>
+    <header>
+        <h1>cricketers</h1>
+        <nav>
+            <ol>
+                <li>virat kohli</li>
+                <li>sachin tendulkar</li>
+                <li>M S Dhoni</li>
+                <li>rohit sharma</li>
+                <li>abhishek sharma</li>
+            </ol>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <article>
+                <h2>facts about cricketers</h2>
+                <p>the nickname of virat kohli is chikoo, it is given by indian team. When M S Dhohni was taking his nickname the mick in wicket was on and so the world got to know virat kohli nickname.In sachin tendulkar first test match he was subsituted.</p>
+            </article>
+            <aside>
+                <p>aften being subsitutted he showed the world why he is known as god of cricket.M.S.Dhoni is a cool captain but sometimes he get angry on their team or to empire on unfair advantage given to opponent team.</p>
+            </aside>
+        </section>
+    </main>
+    <footer>
+        <h2>this is about the player of indian team</h2>
+    </footer>
+</body>
+</html>
+
