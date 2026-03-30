@@ -1,0 +1,25 @@
+html>
+<head>
+    <title>pabb</title>
+</head>
+<body>
+    <b>this website is very good</b>
+    <br>
+    <strong>this website is very good</strong>
+    <br>
+    <i>this website is very good</i>
+    <br>
+    <u>this website is very good</u>
+    <br>
+    <em>this website is very good</em>
+    <br>
+    <sup>this website is very good</sup>
+    <br>
+    <mark>this website is very good</mark>
+    <br>
+    <del>this website is very good</del>
+    <br>
+    <sub>this website is very good</sub>
+    <br>
+</body>
+</html>
